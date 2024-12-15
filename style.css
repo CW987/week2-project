@@ -1,0 +1,13 @@
+* {
+    background-color: peachpuff;
+}
+
+.thumbnail {
+    width: 65px;
+    height: 50px;
+    border: 10px;
+}
+
+.displayedImg {
+    width: 100%;
+}

@@ -8,4 +8,4 @@ One of the odd stumbling blocks I have noticed this week is not trusting in my o
 
 Noticed my pictures were going up in file size once I had them together, so was good to see the lag in loading the larger images when testing the website. 
 
-I hit a wall after getting the one image to display. I couldn't mentally piece together what I needed next in order to build a thumbnail bar. So I fed my code, the code of the example website,and another students, so it could tell me what was missing and where to go next. Initial set up of the website was easier this week so I assume this is another thing that will just come with practice.
+I hit a wall after getting the one image to display. I couldn't mentally piece together what I needed next in order to build a thumbnail bar. So I fed my code, the code of the example website,and another students, so it could tell me what was missing and where to go next. Initial set up of the website was easier this week so I assume this is another thing that will just come with practice. This would be a continuation of refining the set up process I noted in the last project.
