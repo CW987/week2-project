@@ -5,9 +5,17 @@
 .thumbnail {
     width: 65px;
     height: 50px;
-    border: 10px;
+    /* border: 10px; */
 }
 
 .displayedImg {
     width: 100%;
+    height: 100vh;
+}
+
+/* Took me an age to work out that I wasn't targeting correctly */
+
+#thumbnailCont {
+    display: flex;
+    justify-content: center;
 }
